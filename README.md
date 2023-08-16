@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-Rabiaa
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently working on a chat app
+- 👀 I’m interested in Android and Web Development
+- 🌱 I’m currently taking ALX Software Engineering program
 
 
 <!---
