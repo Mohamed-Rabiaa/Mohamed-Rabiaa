@@ -1,11 +1,21 @@
 ![header](https://github.com/user-attachments/assets/ae140aac-3bf8-475c-8358-a702ae48f027)
 
 <h3 align="center">A Passionate Full Stack Software Engineer From Egypt</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **Backend, Full Stack, Django, Flask, Nodejs, Unit tests**
+ 💬 Ask me about:  
+ - **Backend**  
+ - **Full Stack**  
+ - **Django**  
+ - **Flask**   
+ - **Nodejs**  
+ - **Unit tests**  
+<br>
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
